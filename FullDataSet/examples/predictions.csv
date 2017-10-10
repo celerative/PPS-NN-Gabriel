@@ -1,0 +1,44 @@
+ClassId,SignName
+0,Speed limit (20km/h)
+1,Speed limit (30km/h)
+2,No passing for vehicles over 3.5 metric tons
+3,Right-of-way at the next intersection
+4,Priority road
+5,Yield
+6,Stop
+7,No vehicles
+8,Vehicles over 3.5 metric tons prohibited
+9,No entry
+10,General caution
+11,Dangerous curve to the left
+12,Speed limit (50km/h)
+13,Dangerous curve to the right
+14,Double curve
+15,Bumpy road
+16,Slippery road
+17,Road narrows on the right
+18,Road work
+19,Traffic signals
+20,Pedestrians
+21,Children crossing
+22,Bicycles crossing
+23,Speed limit (60km/h)
+24,Beware of ice/snow
+25,Wild animals crossing
+26,End of all speed and passing limits
+27,Turn right ahead
+28,Turn left ahead
+29,Ahead only
+30,Go straight or right
+31,Go straight or left
+32,Keep right
+33,Keep left
+34,Speed limit (70km/h)
+35,Roundabout mandatory
+36,End of no passing
+37,End of no passing by vehicles over 3.5 metric tons
+38,Speed limit (80km/h)
+39,End of speed limit (80km/h)
+40,Speed limit (100km/h)
+41,Speed limit (120km/h)
+42,No passing
